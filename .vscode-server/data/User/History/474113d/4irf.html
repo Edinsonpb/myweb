@@ -21,6 +21,20 @@
             </nav>
         </header>
         <main>
+            <form action="">
+                <label for="nombre">
+                    <span>Digita tu usuario</span>
+                    <input type="text" id="nombre">
+                </label>
+                <label for="email">
+                    <span>Digita tu email</span>
+                    <input type="email" id="email">
+                </label>
+                <label for="password">
+                    <span>Digita tu contraseña</span>
+                    <input type="text" id="password">
+                </label>
+            </form>
             <section>
                 <article>
                     <h2>Imágenes reales</h2>
@@ -45,11 +59,7 @@
                     <p>Esta es Lulú rendida después de un día de celebración de su 7° cumpleaños</p>
                     <video src="./videos/lulu.mp4" controls preload="auto"></video>
                 </article>
-                </section>
-                <section>
-                    <h1>Formatos de calendario</h1>
-                    <h2>Individuales</h2>
-                    <form action="">
+                <form action="">
                     <label for="hora">
                         <span>Hora</span>
                         <input type="time" id="hora" name="hora">
@@ -74,7 +84,7 @@
                     </label>
                     <input type="submit" />
                 </form>
-                <h2>Integrado horas y fechas</h2>
+                </section>
                 <form action="">
                     <label for="calendario">
                         <span>Calendario</span>
@@ -82,40 +92,24 @@
                     </label>
                     <input type="submit" />
                 </form>
-                </section>
-                <section>
-                <h1>Formularios autocompletar y requeridos</h1>
                 <form action="">
                     <label for="nombre">
                         <span>Digita tu nombre</span>
-                        <input type="text" id="nombre" name="nombre" autocomplete="name" required/>
+                        <input type="text" id="nombre" name="nombre"/>
                     </label>
                     <label for="correo">
                         <span>Digita tu email</span>
-                        <input type="email" id="correo" name="correo" autocomplete="email" required/>
+                        <input type="email" id="correo" name="correo"/>
                     </label>
                     <label for="pais">
                         <span>Digita tu pais de residencia</span>
-                        <input type="text" id="pais" name="pais" autocomplete="country" required/>
+                        <input type="text" id="pais" name="pais"/>
                     </label>
                     <label for="cp">
                         <span>Digita tu codigo postal</span>
-                        <input type="text" id="cp" name="cp" autocomplete="postal-code" required/>
+                        <input type="text" id="cp" name="cp"/>
                     </label>
-                    <input type="submit" />
                 </form>
-                </section>
-                <section>
-                    <h1>Listas para seleccionar</h1>
-                    <input list="paises">
-                    <datalist id="paises">
-                        <option value="Colombia">
-                        <option value="México">
-                        <option value="Perú">
-                        <option value="Chile">
-                        <option value="Argentina">
-                    </datalist>
-                </section>
         </main>
         <footer>
             <p>Este es el pie de página de mi página</p>
