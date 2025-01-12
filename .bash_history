@@ -56,3 +56,30 @@ git config pull.rebase true # rebase
 git pull origin master
 git push origin master
 exit
+git status
+git add.
+git status
+git add .
+git status
+git commit -m "avanzando en javascript"
+git status
+git push origin master
+code .
+pwd
+git status
+git add .
+git status
+git commit -m "agregando imagenes optimizadas"
+git push remote master
+git push origin master
+git status
+git add .
+git commit -m "incorporando videos"
+git push origin master
+git status
+git add .
+git status
+git commit -m "formularios"
+git status
+git push origin master
+exit

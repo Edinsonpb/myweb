@@ -9,3 +9,5 @@
 2025-01-12 08:48:44.672 [info] [127.0.0.1][bad09f93][ExtensionHostConnection] <31425> Launched Extension Host Process.
 2025-01-12 08:51:16.276 [info] [127.0.0.1][bad09f93][ExtensionHostConnection] <31425> [0mGET /favicon.ico [33m404[0m 6.814 ms - 150[0m
 
+2025-01-12 11:33:06.787 [info] [127.0.0.1][ef47272a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-12 11:33:10.533 [info] [127.0.0.1][bad09f93][ExtensionHostConnection] <31425> Extension Host Process exited with code: 0, signal: null.
