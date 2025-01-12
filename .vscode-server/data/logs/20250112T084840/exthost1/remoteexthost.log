@@ -1,0 +1,14 @@
+2025-01-12 08:48:50.607 [info] Extension host with pid 31425 started
+2025-01-12 08:48:50.851 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-01-12 08:48:50.866 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-12 08:48:50.867 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-01-12 08:48:51.994 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-12 08:48:52.077 [info] Lock '/home/edinsonpb/.vscode-server/data/User/workspaceStorage/9f38dab2b44da56763b98fa67324c748/vscode.lock': Lock acquired.
+2025-01-12 08:48:52.764 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-12 08:48:52.766 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-12 08:48:54.999 [info] Eager extensions activated
+2025-01-12 08:48:55.000 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-12 08:48:55.002 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-12 08:48:55.003 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-01-12 08:48:55.004 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-01-12 08:48:55.005 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'

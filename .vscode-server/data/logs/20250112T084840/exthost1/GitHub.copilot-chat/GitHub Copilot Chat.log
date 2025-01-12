@@ -1,0 +1,26 @@
+2025-01-12 08:49:02.417 [info] Can't use the Electron fetcher in this environment.
+2025-01-12 08:49:02.417 [info] Using the Node fetch fetcher.
+2025-01-12 08:49:02.417 [info] Initializing Git extension service.
+2025-01-12 08:49:02.417 [info] Successfully activated the vscode.git extension.
+2025-01-12 08:49:02.417 [info] Enablement state of the vscode.git extension: true.
+2025-01-12 08:49:02.417 [info] Successfully registered Git commit message provider.
+2025-01-12 08:49:04.173 [info] Logged in as Edinsonpb
+2025-01-12 08:49:13.563 [info] Got Copilot token for Edinsonpb
+2025-01-12 08:49:14.586 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-12 08:49:14.587 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-01-12 08:49:14.624 [info] Registering default platform agent...
+2025-01-12 08:49:15.849 [info] Fetched model metadata in 2255ms ed13a51f-9342-4f90-8b5d-bc800b41b153
+2025-01-12 08:49:15.872 [info] activationBlocker from 'languageModelAccess' took for 11857ms
+2025-01-12 09:04:19.209 [info] Fetched model metadata in 825ms d42bd796-7c92-4edc-b53c-ad4208833fa8
+2025-01-12 09:14:13.685 [info] Logged in as Edinsonpb
+2025-01-12 09:14:15.045 [info] Got Copilot token for Edinsonpb
+2025-01-12 09:14:15.280 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-12 09:28:06.065 [info] Fetched model metadata in 884ms f863e977-7a04-4960-a407-cb9093456530
+2025-01-12 09:28:07.263 [info] message 0 returned. finish reason: [stop]
+2025-01-12 09:28:07.268 [info] request done: requestId: [79b06e56-09fa-428b-9869-31febf4b2507] model deployment ID: []
+2025-01-12 09:28:12.355 [info] message 0 returned. finish reason: [stop]
+2025-01-12 09:28:12.357 [info] request done: requestId: [c6a17c58-83ce-429a-b486-d5838fb5dd50] model deployment ID: []
+2025-01-12 09:39:15.164 [info] Logged in as Edinsonpb
+2025-01-12 09:39:16.444 [info] Got Copilot token for Edinsonpb
+2025-01-12 09:39:16.682 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-12 09:39:17.747 [info] Fetched model metadata in 942ms 218e410a-1aa0-4eb7-8a38-3054ab575ad3
