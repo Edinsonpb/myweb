@@ -1,0 +1,980 @@
+2025-01-12 08:15:39.372 [info] [certificates] Removed 1 expired certificates
+2025-01-12 08:15:41.033 [info] [fetcher] Using Helix fetcher, Electron fetcher is not available.
+2025-01-12 08:15:42.368 [info] [fetcher] Using Helix fetcher, Electron fetcher is not available.
+2025-01-12 08:15:42.368 [info] [code-referencing] Public code references are enabled.
+2025-01-12 08:16:10.422 [warning] [relatedFiles] unknown language html
+2025-01-12 08:16:16.464 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 316 ms
+2025-01-12 08:16:16.491 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:16:16.520 [info] [streamChoices] request done: headerRequestId: [e0ddd6bb-ab49-4d9c-92e6-df8604619ceb] model deployment ID: [d087-20241014233143]
+2025-01-12 08:16:32.174 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 585 ms
+2025-01-12 08:16:32.181 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:16:32.192 [info] [streamChoices] request done: headerRequestId: [3f5a4201-ccc4-4feb-adb6-ad7bc082b1a8] model deployment ID: [d087-20241014233143]
+2025-01-12 08:16:35.459 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 453 ms
+2025-01-12 08:16:35.467 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:16:35.478 [info] [streamChoices] request done: headerRequestId: [c01a5335-a6ed-46d2-817d-7675fbfb2d8f] model deployment ID: [d087-20241014233143]
+2025-01-12 08:16:43.721 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 450 ms
+2025-01-12 08:16:43.728 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:16:43.736 [info] [streamChoices] request done: headerRequestId: [24507ec1-0b8e-4386-85e7-dde74bee83ab] model deployment ID: [d087-20241014233143]
+2025-01-12 08:16:52.001 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 346 ms
+2025-01-12 08:16:52.009 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:16:52.013 [info] [streamChoices] request done: headerRequestId: [b80f2c12-2e70-44bc-b3de-9301a2cab78c] model deployment ID: [d087-20241014233143]
+2025-01-12 08:16:54.336 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 319 ms
+2025-01-12 08:16:54.340 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:16:54.341 [info] [streamChoices] request done: headerRequestId: [2d3143ad-ad87-4166-a351-63f5040d4bc9] model deployment ID: [d087-20241014233143]
+2025-01-12 08:17:05.578 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 312 ms
+2025-01-12 08:17:05.582 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:17:05.589 [info] [streamChoices] request done: headerRequestId: [ce7d814b-2b14-47df-bed2-ed5876d4af8c] model deployment ID: [d087-20241014233143]
+2025-01-12 08:17:10.042 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 359 ms
+2025-01-12 08:17:10.049 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:17:10.054 [info] [streamChoices] request done: headerRequestId: [1760cb1e-83b2-4431-b208-f96c546b823b] model deployment ID: [d087-20241014233143]
+2025-01-12 08:17:14.325 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 400 ms
+2025-01-12 08:17:14.329 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:17:14.331 [info] [streamChoices] request done: headerRequestId: [4830f49f-f369-411b-b334-54cd1bf1935a] model deployment ID: [d087-20241014233143]
+2025-01-12 08:17:17.499 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 429 ms
+2025-01-12 08:17:17.506 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:17:17.514 [info] [streamChoices] request done: headerRequestId: [0c1fea0b-6169-47c2-8b6e-bdd77d9846d4] model deployment ID: [d087-20241014233143]
+2025-01-12 08:17:22.602 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 2797 ms
+2025-01-12 08:17:22.614 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:17:22.615 [info] [streamChoices] request done: headerRequestId: [9e455381-93a0-4140-ac4a-4c00bd7fad24] model deployment ID: [d087-20241014233143]
+2025-01-12 08:17:43.769 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 405 ms
+2025-01-12 08:17:43.775 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:17:43.790 [info] [streamChoices] request done: headerRequestId: [6634fc8e-5267-4e91-8fb7-da31f9b771f5] model deployment ID: [d087-20241014233143]
+2025-01-12 08:17:45.451 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 364 ms
+2025-01-12 08:17:45.458 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:17:45.462 [info] [streamChoices] request done: headerRequestId: [4d34df8b-5f36-4699-bf3b-5a41b34a26b6] model deployment ID: [d087-20241014233143]
+2025-01-12 08:17:59.566 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 443 ms
+2025-01-12 08:17:59.578 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:17:59.585 [info] [streamChoices] request done: headerRequestId: [9b8999dc-dd6b-4d5c-a38a-1c14ff3411f1] model deployment ID: [d087-20241014233143]
+2025-01-12 08:18:02.932 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 379 ms
+2025-01-12 08:18:02.939 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:18:02.949 [info] [streamChoices] request done: headerRequestId: [dd916d19-510d-43a4-8f99-5452d5bf410c] model deployment ID: [d087-20241014233143]
+2025-01-12 08:18:16.733 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 327 ms
+2025-01-12 08:18:16.741 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:18:16.751 [info] [streamChoices] request done: headerRequestId: [005e04e1-35e0-4130-a327-0b337d016783] model deployment ID: [d087-20241014233143]
+2025-01-12 08:18:19.844 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 373 ms
+2025-01-12 08:18:19.851 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:18:19.853 [info] [streamChoices] request done: headerRequestId: [a8a28207-e371-44c6-a777-17703cabc98a] model deployment ID: [d087-20241014233143]
+2025-01-12 08:18:33.546 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 441 ms
+2025-01-12 08:18:33.549 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:18:33.553 [info] [streamChoices] request done: headerRequestId: [7863467c-7f65-4fe2-a1cd-0d57b3a9897f] model deployment ID: [d087-20241014233143]
+2025-01-12 08:18:35.167 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 364 ms
+2025-01-12 08:18:35.173 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:18:35.177 [info] [streamChoices] request done: headerRequestId: [c557a11b-4f8b-4e37-8cbd-9d631d6457e0] model deployment ID: [d087-20241014233143]
+2025-01-12 08:18:37.648 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 402 ms
+2025-01-12 08:18:37.652 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:18:37.655 [info] [streamChoices] request done: headerRequestId: [c37aa32e-7c98-42f5-9791-0c85f061e493] model deployment ID: [d087-20241014233143]
+2025-01-12 08:18:40.321 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 418 ms
+2025-01-12 08:18:40.328 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:18:40.330 [info] [streamChoices] request done: headerRequestId: [6f7d8fb6-125d-48ee-8dfc-09ad904c13dd] model deployment ID: [d087-20241014233143]
+2025-01-12 08:18:48.022 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 405 ms
+2025-01-12 08:18:48.036 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:18:48.040 [info] [streamChoices] request done: headerRequestId: [5279db58-323a-4098-b765-6ea190d52f4e] model deployment ID: [d087-20241014233143]
+2025-01-12 08:18:50.531 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 312 ms
+2025-01-12 08:18:50.537 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:18:50.545 [info] [streamChoices] request done: headerRequestId: [11794e11-41bf-4fc8-8538-a8c55cf09e97] model deployment ID: [d087-20241014233143]
+2025-01-12 08:19:07.268 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 357 ms
+2025-01-12 08:19:07.272 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:19:07.276 [info] [streamChoices] request done: headerRequestId: [ca78d434-0fc6-47b6-b9c9-5ff0737ce7cb] model deployment ID: [d087-20241014233143]
+2025-01-12 08:20:07.700 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 527 ms
+2025-01-12 08:20:07.719 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:20:07.734 [info] [streamChoices] request done: headerRequestId: [e597d3e5-7e89-4cb8-8af1-0f378ffbbc2a] model deployment ID: [d087-20241014233143]
+2025-01-12 08:20:28.580 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 403 ms
+2025-01-12 08:20:28.588 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:20:28.599 [info] [streamChoices] request done: headerRequestId: [b355835f-03d4-4a65-9dec-abd3b2ddef75] model deployment ID: [d087-20241014233143]
+2025-01-12 08:20:57.707 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 401 ms
+2025-01-12 08:20:57.711 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:20:57.714 [info] [streamChoices] request done: headerRequestId: [905a9313-f9b3-4173-ad5e-391acc0b4c88] model deployment ID: [d087-20241014233143]
+2025-01-12 08:20:59.162 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 417 ms
+2025-01-12 08:20:59.178 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:20:59.181 [info] [streamChoices] request done: headerRequestId: [639001a9-5eab-4270-9336-31611fb983da] model deployment ID: [d087-20241014233143]
+2025-01-12 08:21:00.406 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 321 ms
+2025-01-12 08:21:00.412 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:21:00.414 [info] [streamChoices] request done: headerRequestId: [c772f741-d684-4b74-ad6a-941600c8a637] model deployment ID: [d087-20241014233143]
+2025-01-12 08:21:11.905 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 485 ms
+2025-01-12 08:21:11.921 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:21:11.945 [info] [streamChoices] request done: headerRequestId: [8ce599ed-34d9-4388-a8cd-1526f915658a] model deployment ID: [d087-20241014233143]
+2025-01-12 08:21:17.750 [info] [code-referencing] Calling Match
+2025-01-12 08:21:18.276 [info] [code-referencing] Calling Match
+2025-01-12 08:21:18.406 [info] [code-referencing] No match found
+2025-01-12 08:21:18.409 [info] [code-referencing] No match found
+2025-01-12 08:21:18.783 [info] [code-referencing] Calling Match
+2025-01-12 08:21:18.884 [info] [code-referencing] No match found
+2025-01-12 08:21:19.678 [info] [code-referencing] Calling Match
+2025-01-12 08:21:19.783 [info] [code-referencing] No match found
+2025-01-12 08:21:29.065 [info] [code-referencing] Calling Match
+2025-01-12 08:21:29.173 [info] [code-referencing] No match found
+2025-01-12 08:21:38.138 [info] [code-referencing] Calling Match
+2025-01-12 08:21:38.247 [info] [code-referencing] No match found
+2025-01-12 08:21:45.263 [info] [code-referencing] Calling Match
+2025-01-12 08:21:45.378 [info] [code-referencing] No match found
+2025-01-12 08:21:46.610 [info] [code-referencing] Calling Match
+2025-01-12 08:21:46.715 [info] [code-referencing] No match found
+2025-01-12 08:22:56.063 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 398 ms
+2025-01-12 08:22:56.074 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:22:56.079 [info] [streamChoices] request done: headerRequestId: [933b91b2-daf0-422e-b196-8714e56df607] model deployment ID: [d087-20241014233143]
+2025-01-12 08:23:00.256 [info] [code-referencing] Calling Match
+2025-01-12 08:23:00.368 [info] [code-referencing] No match found
+2025-01-12 08:23:00.707 [info] [code-referencing] Calling Match
+2025-01-12 08:23:00.817 [info] [code-referencing] No match found
+2025-01-12 08:23:00.926 [info] [code-referencing] Calling Match
+2025-01-12 08:23:01.025 [info] [code-referencing] No match found
+2025-01-12 08:23:01.347 [info] [code-referencing] Calling Match
+2025-01-12 08:23:01.448 [info] [code-referencing] No match found
+2025-01-12 08:23:01.753 [info] [code-referencing] Calling Match
+2025-01-12 08:23:01.858 [info] [code-referencing] No match found
+2025-01-12 08:23:03.723 [info] [code-referencing] Calling Match
+2025-01-12 08:23:03.836 [info] [code-referencing] No match found
+2025-01-12 08:23:06.000 [info] [code-referencing] Calling Match
+2025-01-12 08:23:06.000 [info] [code-referencing] Calling Match
+2025-01-12 08:23:06.000 [info] [code-referencing] Calling Match
+2025-01-12 08:23:06.001 [info] [code-referencing] Calling Match
+2025-01-12 08:23:06.001 [info] [code-referencing] Calling Match
+2025-01-12 08:23:06.042 [info] [code-referencing] Calling Match
+2025-01-12 08:23:06.136 [info] [code-referencing] No match found
+2025-01-12 08:23:06.224 [info] [code-referencing] No match found
+2025-01-12 08:23:06.226 [info] [code-referencing] No match found
+2025-01-12 08:23:06.227 [info] [code-referencing] No match found
+2025-01-12 08:23:06.229 [info] [code-referencing] No match found
+2025-01-12 08:23:06.301 [info] [code-referencing] No match found
+2025-01-12 08:23:06.439 [info] [code-referencing] Calling Match
+2025-01-12 08:23:06.567 [info] [code-referencing] No match found
+2025-01-12 08:23:06.782 [info] [code-referencing] Calling Match
+2025-01-12 08:23:06.896 [info] [code-referencing] No match found
+2025-01-12 08:24:21.990 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 346 ms
+2025-01-12 08:24:21.997 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:24:22.002 [info] [streamChoices] request done: headerRequestId: [4b620530-8878-4eb7-acfb-54ea12944cfa] model deployment ID: [d087-20241014233143]
+2025-01-12 08:24:28.900 [info] [code-referencing] Calling Match
+2025-01-12 08:24:28.901 [info] [code-referencing] Calling Match
+2025-01-12 08:24:28.901 [info] [code-referencing] Calling Match
+2025-01-12 08:24:29.037 [info] [code-referencing] No match found
+2025-01-12 08:24:29.387 [info] [code-referencing] No match found
+2025-01-12 08:24:29.389 [info] [code-referencing] No match found
+2025-01-12 08:24:31.597 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 316 ms
+2025-01-12 08:24:31.601 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:24:31.613 [info] [streamChoices] request done: headerRequestId: [2a4e5900-39be-42a3-8833-8fa4251b849c] model deployment ID: [d087-20241014233143]
+2025-01-12 08:24:32.531 [info] [code-referencing] Calling Match
+2025-01-12 08:24:32.635 [info] [code-referencing] No match found
+2025-01-12 08:24:49.005 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 1097 ms
+2025-01-12 08:24:49.313 [info] [streamChoices] request done: headerRequestId: [74a7ec43-1cb9-4ed8-a108-41db83b18b5c] model deployment ID: [d087-20241014233143]
+2025-01-12 08:24:52.244 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 2723 ms
+2025-01-12 08:24:52.363 [info] [streamChoices] request done: headerRequestId: [fba05b70-a38a-472f-89df-915fbc971643] model deployment ID: [d087-20241014233143]
+2025-01-12 08:24:54.925 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 1252 ms
+2025-01-12 08:24:56.144 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:24:56.147 [info] [streamChoices] request done: headerRequestId: [5f04069e-b742-4e85-9bed-88af771caaaf] model deployment ID: [d087-20241014233143]
+2025-01-12 08:27:00.399 [info] [code-referencing] Calling Match
+2025-01-12 08:27:00.675 [info] [code-referencing] Calling Match
+2025-01-12 08:27:00.928 [info] [code-referencing] Calling Match
+2025-01-12 08:27:00.996 [info] [code-referencing] Calling Match
+2025-01-12 08:27:01.043 [info] [code-referencing] No match found
+2025-01-12 08:27:01.118 [info] [code-referencing] Calling Match
+2025-01-12 08:27:01.150 [info] [code-referencing] Match found
+2025-01-12 08:27:01.151 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:01.167 [info] [code-referencing] Match found
+2025-01-12 08:27:01.168 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:01.173 [info] [code-referencing] Match found
+2025-01-12 08:27:01.173 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:01.250 [info] [code-referencing] Match found
+2025-01-12 08:27:01.250 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:01.368 [info] [code-referencing] Calling Match
+2025-01-12 08:27:01.723 [info] [code-referencing] Calling Match
+2025-01-12 08:27:04.573 [info] [code-referencing] Match found
+2025-01-12 08:27:04.574 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:04.735 [info] [code-referencing] Calling Match
+2025-01-12 08:27:04.736 [info] [code-referencing] Calling Match
+2025-01-12 08:27:04.736 [info] [code-referencing] Calling Match
+2025-01-12 08:27:04.757 [info] [code-referencing] Match found
+2025-01-12 08:27:04.757 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:04.883 [info] [code-referencing] Match found
+2025-01-12 08:27:04.884 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:04.888 [info] [code-referencing] Match found
+2025-01-12 08:27:04.888 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:04.901 [info] [code-referencing] Match found
+2025-01-12 08:27:04.902 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:05.125 [info] [code-referencing] Calling Match
+2025-01-12 08:27:05.125 [info] [code-referencing] Calling Match
+2025-01-12 08:27:05.125 [info] [code-referencing] Calling Match
+2025-01-12 08:27:05.190 [info] [code-referencing] Calling Match
+2025-01-12 08:27:05.190 [info] [code-referencing] Calling Match
+2025-01-12 08:27:05.191 [info] [code-referencing] Calling Match
+2025-01-12 08:27:05.191 [info] [code-referencing] Calling Match
+2025-01-12 08:27:05.191 [info] [code-referencing] Calling Match
+2025-01-12 08:27:05.191 [info] [code-referencing] Calling Match
+2025-01-12 08:27:05.191 [info] [code-referencing] Calling Match
+2025-01-12 08:27:05.191 [info] [code-referencing] Calling Match
+2025-01-12 08:27:05.191 [info] [code-referencing] Calling Match
+2025-01-12 08:27:05.191 [info] [code-referencing] Calling Match
+2025-01-12 08:27:05.321 [info] [code-referencing] Match found
+2025-01-12 08:27:05.322 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:05.325 [info] [code-referencing] Match found
+2025-01-12 08:27:05.326 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:05.339 [info] [code-referencing] Match found
+2025-01-12 08:27:05.339 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:05.344 [info] [code-referencing] Match found
+2025-01-12 08:27:05.344 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:05.427 [info] [code-referencing] Match found
+2025-01-12 08:27:05.427 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:05.430 [info] [code-referencing] Match found
+2025-01-12 08:27:05.431 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:05.433 [info] [code-referencing] Match found
+2025-01-12 08:27:05.434 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:05.447 [info] [code-referencing] Match found
+2025-01-12 08:27:05.447 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:05.452 [info] [code-referencing] Match found
+2025-01-12 08:27:05.452 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:05.465 [info] [code-referencing] Match found
+2025-01-12 08:27:05.466 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:05.482 [info] [code-referencing] Match found
+2025-01-12 08:27:05.482 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:05.495 [info] [code-referencing] Match found
+2025-01-12 08:27:05.496 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:05.512 [info] [code-referencing] Match found
+2025-01-12 08:27:05.512 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:07.844 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.844 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.844 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.844 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.844 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.844 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.844 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.844 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.844 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.846 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.846 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.846 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.846 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.846 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.846 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.846 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.846 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.846 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.846 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.846 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.846 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.846 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.846 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.846 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.847 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.847 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.847 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.847 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.847 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.847 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.847 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.847 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.847 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.847 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.847 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.848 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.848 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.848 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.859 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.859 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.859 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.859 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.859 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.859 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.859 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.859 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.860 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.860 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.860 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.860 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.860 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.860 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.860 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.860 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.860 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.860 [info] [code-referencing] Calling Match
+2025-01-12 08:27:07.860 [info] [code-referencing] Calling Match
+2025-01-12 08:27:08.183 [info] [code-referencing] No match found
+2025-01-12 08:27:08.294 [info] [code-referencing] No match found
+2025-01-12 08:27:08.296 [info] [code-referencing] No match found
+2025-01-12 08:27:08.308 [info] [code-referencing] No match found
+2025-01-12 08:27:08.310 [info] [code-referencing] No match found
+2025-01-12 08:27:08.324 [info] [code-referencing] No match found
+2025-01-12 08:27:08.326 [info] [code-referencing] Match found
+2025-01-12 08:27:08.327 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.392 [info] [code-referencing] Match found
+2025-01-12 08:27:08.392 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.406 [info] [code-referencing] Match found
+2025-01-12 08:27:08.406 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.409 [info] [code-referencing] Match found
+2025-01-12 08:27:08.410 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.413 [info] [code-referencing] Match found
+2025-01-12 08:27:08.413 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.428 [info] [code-referencing] Match found
+2025-01-12 08:27:08.428 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.444 [info] [code-referencing] Match found
+2025-01-12 08:27:08.444 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.447 [info] [code-referencing] Match found
+2025-01-12 08:27:08.448 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.462 [info] [code-referencing] Match found
+2025-01-12 08:27:08.462 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.477 [info] [code-referencing] Match found
+2025-01-12 08:27:08.478 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.497 [info] [code-referencing] Match found
+2025-01-12 08:27:08.497 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.500 [info] [code-referencing] Match found
+2025-01-12 08:27:08.500 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.515 [info] [code-referencing] Match found
+2025-01-12 08:27:08.515 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.519 [info] [code-referencing] Match found
+2025-01-12 08:27:08.519 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.531 [info] [code-referencing] Match found
+2025-01-12 08:27:08.531 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.534 [info] [code-referencing] Match found
+2025-01-12 08:27:08.535 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.538 [info] [code-referencing] Match found
+2025-01-12 08:27:08.539 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.551 [info] [code-referencing] Match found
+2025-01-12 08:27:08.551 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.556 [info] [code-referencing] Match found
+2025-01-12 08:27:08.556 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.561 [info] [code-referencing] Match found
+2025-01-12 08:27:08.562 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.565 [info] [code-referencing] Match found
+2025-01-12 08:27:08.565 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.573 [info] [code-referencing] Match found
+2025-01-12 08:27:08.574 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.577 [info] [code-referencing] Match found
+2025-01-12 08:27:08.577 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.592 [info] [code-referencing] Match found
+2025-01-12 08:27:08.592 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.598 [info] [code-referencing] Match found
+2025-01-12 08:27:08.599 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.601 [info] [code-referencing] Match found
+2025-01-12 08:27:08.601 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.604 [info] [code-referencing] Match found
+2025-01-12 08:27:08.605 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.608 [info] [code-referencing] Match found
+2025-01-12 08:27:08.608 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.611 [info] [code-referencing] Match found
+2025-01-12 08:27:08.612 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.615 [info] [code-referencing] Match found
+2025-01-12 08:27:08.615 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.628 [info] [code-referencing] Match found
+2025-01-12 08:27:08.629 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.633 [info] [code-referencing] Match found
+2025-01-12 08:27:08.634 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.636 [info] [code-referencing] Match found
+2025-01-12 08:27:08.637 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.647 [info] [code-referencing] Match found
+2025-01-12 08:27:08.647 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.651 [info] [code-referencing] Match found
+2025-01-12 08:27:08.652 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.664 [info] [code-referencing] Match found
+2025-01-12 08:27:08.665 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.670 [info] [code-referencing] Match found
+2025-01-12 08:27:08.679 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.683 [info] [code-referencing] Match found
+2025-01-12 08:27:08.683 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.686 [info] [code-referencing] Match found
+2025-01-12 08:27:08.687 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.690 [info] [code-referencing] Match found
+2025-01-12 08:27:08.691 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.704 [info] [code-referencing] Match found
+2025-01-12 08:27:08.704 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.717 [info] [code-referencing] Match found
+2025-01-12 08:27:08.718 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.722 [info] [code-referencing] Match found
+2025-01-12 08:27:08.722 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.736 [info] [code-referencing] Match found
+2025-01-12 08:27:08.736 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.739 [info] [code-referencing] Match found
+2025-01-12 08:27:08.739 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.754 [info] [code-referencing] Match found
+2025-01-12 08:27:08.754 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.758 [info] [code-referencing] Match found
+2025-01-12 08:27:08.758 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.761 [info] [code-referencing] Match found
+2025-01-12 08:27:08.762 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.774 [info] [code-referencing] Match found
+2025-01-12 08:27:08.774 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.778 [info] [code-referencing] Match found
+2025-01-12 08:27:08.779 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:08.783 [info] [code-referencing] Match found
+2025-01-12 08:27:08.784 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:14.733 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.740 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.744 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.744 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.744 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.744 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.744 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.744 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.744 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.745 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.745 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.746 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.746 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.746 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.746 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.746 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.746 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.746 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.746 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.746 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.746 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.746 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.747 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.747 [info] [code-referencing] Calling Match
+2025-01-12 08:27:14.747 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.459 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.460 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.460 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.460 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.460 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.460 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.460 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.460 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.460 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.460 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.460 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.460 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.460 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.461 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.461 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.461 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.461 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.461 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.461 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.461 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.462 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.462 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.462 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.462 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.462 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.462 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.462 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.462 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.462 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.462 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.462 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.462 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.462 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.462 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.462 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.463 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.463 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.463 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.463 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.463 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.463 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.463 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.464 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.464 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.464 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.464 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.464 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.464 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.464 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.464 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.464 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.464 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.464 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.464 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.465 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.465 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.465 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.465 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.465 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.465 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.465 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.465 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.465 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.465 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.465 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.465 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.465 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.465 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.465 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.466 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.466 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.467 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.467 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.467 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.467 [info] [code-referencing] Calling Match
+2025-01-12 08:27:15.467 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.018 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.018 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.018 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.018 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.018 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.018 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.018 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.018 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.018 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.019 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.019 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.019 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.019 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.019 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.019 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.019 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.019 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.019 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.019 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.019 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.019 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.020 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.020 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.020 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.020 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.021 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.021 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.021 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.021 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.021 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.021 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.021 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.021 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.022 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.022 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.022 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.022 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.022 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.022 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.022 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.022 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.022 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.022 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.022 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.022 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.022 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.022 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.023 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.023 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.023 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.552 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.552 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.552 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.553 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.553 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.553 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.553 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.554 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.554 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.554 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.554 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.554 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.554 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.554 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.554 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.554 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.554 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.554 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.554 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.554 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.554 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.554 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.554 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.554 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.554 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.555 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.555 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.555 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.555 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.555 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.555 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.555 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.556 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.556 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.556 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.557 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.557 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.557 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.557 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.557 [info] [code-referencing] Calling Match
+2025-01-12 08:27:16.557 [info] [code-referencing] Calling Match
+2025-01-12 08:27:17.471 [info] [code-referencing] Match found
+2025-01-12 08:27:17.471 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.473 [info] [code-referencing] Match found
+2025-01-12 08:27:17.473 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.475 [info] [code-referencing] Match found
+2025-01-12 08:27:17.475 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.476 [info] [code-referencing] Match found
+2025-01-12 08:27:17.477 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.478 [info] [code-referencing] Match found
+2025-01-12 08:27:17.479 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.481 [info] [code-referencing] Match found
+2025-01-12 08:27:17.482 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.484 [info] [code-referencing] Match found
+2025-01-12 08:27:17.484 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.486 [info] [code-referencing] Match found
+2025-01-12 08:27:17.486 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.489 [info] [code-referencing] Match found
+2025-01-12 08:27:17.489 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.490 [info] [code-referencing] Match found
+2025-01-12 08:27:17.491 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.493 [info] [code-referencing] Match found
+2025-01-12 08:27:17.493 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.495 [info] [code-referencing] Match found
+2025-01-12 08:27:17.496 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.498 [info] [code-referencing] Match found
+2025-01-12 08:27:17.498 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.500 [info] [code-referencing] Match found
+2025-01-12 08:27:17.500 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.502 [info] [code-referencing] Match found
+2025-01-12 08:27:17.502 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.503 [info] [code-referencing] Match found
+2025-01-12 08:27:17.503 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.548 [info] [code-referencing] Match found
+2025-01-12 08:27:17.548 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.550 [info] [code-referencing] Match found
+2025-01-12 08:27:17.550 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.552 [info] [code-referencing] Match found
+2025-01-12 08:27:17.552 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.554 [info] [code-referencing] Match found
+2025-01-12 08:27:17.555 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.556 [info] [code-referencing] Match found
+2025-01-12 08:27:17.557 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.558 [info] [code-referencing] Match found
+2025-01-12 08:27:17.558 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.560 [info] [code-referencing] Match found
+2025-01-12 08:27:17.562 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.565 [info] [code-referencing] Match found
+2025-01-12 08:27:17.566 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.567 [info] [code-referencing] Match found
+2025-01-12 08:27:17.568 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.569 [info] [code-referencing] Match found
+2025-01-12 08:27:17.570 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.571 [info] [code-referencing] Match found
+2025-01-12 08:27:17.571 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.573 [info] [code-referencing] Match found
+2025-01-12 08:27:17.573 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.575 [info] [code-referencing] Match found
+2025-01-12 08:27:17.575 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.576 [info] [code-referencing] Match found
+2025-01-12 08:27:17.576 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.580 [info] [code-referencing] Match found
+2025-01-12 08:27:17.580 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.582 [info] [code-referencing] Match found
+2025-01-12 08:27:17.582 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.583 [info] [code-referencing] Match found
+2025-01-12 08:27:17.584 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.585 [info] [code-referencing] Match found
+2025-01-12 08:27:17.585 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.586 [info] [code-referencing] Match found
+2025-01-12 08:27:17.587 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.588 [info] [code-referencing] Match found
+2025-01-12 08:27:17.588 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.590 [info] [code-referencing] Match found
+2025-01-12 08:27:17.590 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.591 [info] [code-referencing] Match found
+2025-01-12 08:27:17.591 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.593 [info] [code-referencing] Match found
+2025-01-12 08:27:17.593 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.595 [info] [code-referencing] Match found
+2025-01-12 08:27:17.595 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.597 [info] [code-referencing] Match found
+2025-01-12 08:27:17.598 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.600 [info] [code-referencing] Match found
+2025-01-12 08:27:17.601 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.603 [info] [code-referencing] Match found
+2025-01-12 08:27:17.603 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.604 [info] [code-referencing] Match found
+2025-01-12 08:27:17.604 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.606 [info] [code-referencing] Match found
+2025-01-12 08:27:17.606 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.632 [info] [code-referencing] Match found
+2025-01-12 08:27:17.632 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.634 [info] [code-referencing] Match found
+2025-01-12 08:27:17.634 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.641 [info] [code-referencing] Match found
+2025-01-12 08:27:17.642 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.653 [info] [code-referencing] Match found
+2025-01-12 08:27:17.653 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.655 [info] [code-referencing] Match found
+2025-01-12 08:27:17.656 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.658 [info] [code-referencing] Match found
+2025-01-12 08:27:17.658 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.664 [info] [code-referencing] Match found
+2025-01-12 08:27:17.664 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.666 [info] [code-referencing] Match found
+2025-01-12 08:27:17.667 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.724 [info] [code-referencing] Match found
+2025-01-12 08:27:17.724 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.728 [info] [code-referencing] Match found
+2025-01-12 08:27:17.729 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.732 [info] [code-referencing] Match found
+2025-01-12 08:27:17.733 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.735 [info] [code-referencing] Match found
+2025-01-12 08:27:17.737 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.740 [info] [code-referencing] Match found
+2025-01-12 08:27:17.744 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.746 [info] [code-referencing] Match found
+2025-01-12 08:27:17.746 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.749 [info] [code-referencing] Match found
+2025-01-12 08:27:17.749 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.752 [info] [code-referencing] Match found
+2025-01-12 08:27:17.753 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.755 [info] [code-referencing] Match found
+2025-01-12 08:27:17.756 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.758 [info] [code-referencing] Match found
+2025-01-12 08:27:17.760 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.763 [info] [code-referencing] Match found
+2025-01-12 08:27:17.763 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.766 [info] [code-referencing] Match found
+2025-01-12 08:27:17.766 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.769 [info] [code-referencing] Match found
+2025-01-12 08:27:17.769 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.771 [info] [code-referencing] Match found
+2025-01-12 08:27:17.771 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.774 [info] [code-referencing] Match found
+2025-01-12 08:27:17.774 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.777 [info] [code-referencing] Match found
+2025-01-12 08:27:17.778 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.779 [info] [code-referencing] Match found
+2025-01-12 08:27:17.780 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.782 [info] [code-referencing] Match found
+2025-01-12 08:27:17.782 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.784 [info] [code-referencing] Match found
+2025-01-12 08:27:17.784 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.786 [info] [code-referencing] Match found
+2025-01-12 08:27:17.786 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.788 [info] [code-referencing] Match found
+2025-01-12 08:27:17.788 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.790 [info] [code-referencing] Match found
+2025-01-12 08:27:17.790 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.814 [info] [code-referencing] Match found
+2025-01-12 08:27:17.815 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.818 [info] [code-referencing] Match found
+2025-01-12 08:27:17.818 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.821 [info] [code-referencing] Match found
+2025-01-12 08:27:17.821 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.823 [info] [code-referencing] Match found
+2025-01-12 08:27:17.823 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.827 [info] [code-referencing] Match found
+2025-01-12 08:27:17.827 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.830 [info] [code-referencing] Match found
+2025-01-12 08:27:17.830 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.832 [info] [code-referencing] Match found
+2025-01-12 08:27:17.832 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.834 [info] [code-referencing] Match found
+2025-01-12 08:27:17.835 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.837 [info] [code-referencing] Match found
+2025-01-12 08:27:17.837 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.839 [info] [code-referencing] Match found
+2025-01-12 08:27:17.839 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.842 [info] [code-referencing] Match found
+2025-01-12 08:27:17.843 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.845 [info] [code-referencing] Match found
+2025-01-12 08:27:17.845 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.847 [info] [code-referencing] Match found
+2025-01-12 08:27:17.847 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.849 [info] [code-referencing] Match found
+2025-01-12 08:27:17.850 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.852 [info] [code-referencing] Match found
+2025-01-12 08:27:17.852 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.855 [info] [code-referencing] Match found
+2025-01-12 08:27:17.855 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.859 [info] [code-referencing] Match found
+2025-01-12 08:27:17.859 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.863 [info] [code-referencing] Match found
+2025-01-12 08:27:17.863 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.865 [info] [code-referencing] Match found
+2025-01-12 08:27:17.865 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.867 [info] [code-referencing] Match found
+2025-01-12 08:27:17.867 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.869 [info] [code-referencing] Match found
+2025-01-12 08:27:17.869 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.871 [info] [code-referencing] Match found
+2025-01-12 08:27:17.871 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.873 [info] [code-referencing] Match found
+2025-01-12 08:27:17.875 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.878 [info] [code-referencing] Match found
+2025-01-12 08:27:17.878 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.881 [info] [code-referencing] Match found
+2025-01-12 08:27:17.881 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.884 [info] [code-referencing] Match found
+2025-01-12 08:27:17.884 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.902 [info] [code-referencing] Match found
+2025-01-12 08:27:17.903 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.907 [info] [code-referencing] Match found
+2025-01-12 08:27:17.907 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.911 [info] [code-referencing] Match found
+2025-01-12 08:27:17.911 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.914 [info] [code-referencing] Match found
+2025-01-12 08:27:17.914 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.917 [info] [code-referencing] Match found
+2025-01-12 08:27:17.917 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.919 [info] [code-referencing] Match found
+2025-01-12 08:27:17.920 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.995 [info] [code-referencing] Match found
+2025-01-12 08:27:17.995 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:17.997 [info] [code-referencing] Match found
+2025-01-12 08:27:17.998 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.000 [info] [code-referencing] Match found
+2025-01-12 08:27:18.000 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.002 [info] [code-referencing] Match found
+2025-01-12 08:27:18.002 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.004 [info] [code-referencing] Match found
+2025-01-12 08:27:18.005 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.009 [info] [code-referencing] Match found
+2025-01-12 08:27:18.009 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.012 [info] [code-referencing] Match found
+2025-01-12 08:27:18.012 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.015 [info] [code-referencing] Match found
+2025-01-12 08:27:18.015 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.017 [info] [code-referencing] Match found
+2025-01-12 08:27:18.017 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.019 [info] [code-referencing] Match found
+2025-01-12 08:27:18.019 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.021 [info] [code-referencing] Match found
+2025-01-12 08:27:18.022 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.025 [info] [code-referencing] Match found
+2025-01-12 08:27:18.026 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.029 [info] [code-referencing] Match found
+2025-01-12 08:27:18.029 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.031 [info] [code-referencing] Match found
+2025-01-12 08:27:18.032 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.034 [info] [code-referencing] Match found
+2025-01-12 08:27:18.034 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.036 [info] [code-referencing] Match found
+2025-01-12 08:27:18.036 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.037 [info] [code-referencing] Match found
+2025-01-12 08:27:18.038 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.042 [info] [code-referencing] Match found
+2025-01-12 08:27:18.043 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.045 [info] [code-referencing] Match found
+2025-01-12 08:27:18.045 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.063 [info] [code-referencing] Match found
+2025-01-12 08:27:18.063 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.068 [info] [code-referencing] Match found
+2025-01-12 08:27:18.068 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.081 [info] [code-referencing] Match found
+2025-01-12 08:27:18.081 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.084 [info] [code-referencing] Match found
+2025-01-12 08:27:18.084 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.086 [info] [code-referencing] Match found
+2025-01-12 08:27:18.086 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.088 [info] [code-referencing] Match found
+2025-01-12 08:27:18.089 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.092 [info] [code-referencing] Match found
+2025-01-12 08:27:18.092 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.094 [info] [code-referencing] Match found
+2025-01-12 08:27:18.095 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.097 [info] [code-referencing] Match found
+2025-01-12 08:27:18.098 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.100 [info] [code-referencing] Match found
+2025-01-12 08:27:18.100 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.102 [info] [code-referencing] Match found
+2025-01-12 08:27:18.102 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.104 [info] [code-referencing] Match found
+2025-01-12 08:27:18.104 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.108 [info] [code-referencing] Match found
+2025-01-12 08:27:18.108 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.110 [info] [code-referencing] Match found
+2025-01-12 08:27:18.110 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.112 [info] [code-referencing] Match found
+2025-01-12 08:27:18.112 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.114 [info] [code-referencing] Match found
+2025-01-12 08:27:18.114 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.116 [info] [code-referencing] Match found
+2025-01-12 08:27:18.116 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.118 [info] [code-referencing] Match found
+2025-01-12 08:27:18.118 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.124 [info] [code-referencing] Match found
+2025-01-12 08:27:18.124 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.127 [info] [code-referencing] Match found
+2025-01-12 08:27:18.127 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.130 [info] [code-referencing] Match found
+2025-01-12 08:27:18.130 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.132 [info] [code-referencing] Match found
+2025-01-12 08:27:18.133 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.135 [info] [code-referencing] Match found
+2025-01-12 08:27:18.135 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.137 [info] [code-referencing] Match found
+2025-01-12 08:27:18.137 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.144 [info] [code-referencing] Match found
+2025-01-12 08:27:18.144 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.146 [info] [code-referencing] Match found
+2025-01-12 08:27:18.146 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.148 [info] [code-referencing] Match found
+2025-01-12 08:27:18.148 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.168 [info] [code-referencing] Match found
+2025-01-12 08:27:18.168 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.170 [info] [code-referencing] Match found
+2025-01-12 08:27:18.171 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.175 [info] [code-referencing] Match found
+2025-01-12 08:27:18.175 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.178 [info] [code-referencing] Match found
+2025-01-12 08:27:18.179 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.181 [info] [code-referencing] Match found
+2025-01-12 08:27:18.181 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.183 [info] [code-referencing] Match found
+2025-01-12 08:27:18.183 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.185 [info] [code-referencing] Match found
+2025-01-12 08:27:18.185 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.187 [info] [code-referencing] Match found
+2025-01-12 08:27:18.187 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.190 [info] [code-referencing] Match found
+2025-01-12 08:27:18.191 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.193 [info] [code-referencing] Match found
+2025-01-12 08:27:18.194 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.252 [info] [code-referencing] Match found
+2025-01-12 08:27:18.252 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.255 [info] [code-referencing] Match found
+2025-01-12 08:27:18.256 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.259 [info] [code-referencing] Match found
+2025-01-12 08:27:18.260 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.262 [info] [code-referencing] Match found
+2025-01-12 08:27:18.262 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.264 [info] [code-referencing] Match found
+2025-01-12 08:27:18.265 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.267 [info] [code-referencing] Match found
+2025-01-12 08:27:18.268 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.271 [info] [code-referencing] Match found
+2025-01-12 08:27:18.271 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.274 [info] [code-referencing] Match found
+2025-01-12 08:27:18.275 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.277 [info] [code-referencing] Match found
+2025-01-12 08:27:18.277 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.281 [info] [code-referencing] Match found
+2025-01-12 08:27:18.281 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.286 [info] [code-referencing] Match found
+2025-01-12 08:27:18.287 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.292 [info] [code-referencing] Match found
+2025-01-12 08:27:18.292 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.295 [info] [code-referencing] Match found
+2025-01-12 08:27:18.295 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.297 [info] [code-referencing] Match found
+2025-01-12 08:27:18.297 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.300 [info] [code-referencing] Match found
+2025-01-12 08:27:18.301 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.308 [info] [code-referencing] Match found
+2025-01-12 08:27:18.309 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.311 [info] [code-referencing] Match found
+2025-01-12 08:27:18.312 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.314 [info] [code-referencing] Match found
+2025-01-12 08:27:18.314 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.317 [info] [code-referencing] Match found
+2025-01-12 08:27:18.317 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.322 [info] [code-referencing] Match found
+2025-01-12 08:27:18.323 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.342 [info] [code-referencing] Match found
+2025-01-12 08:27:18.343 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.344 [info] [code-referencing] Match found
+2025-01-12 08:27:18.345 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.347 [info] [code-referencing] Match found
+2025-01-12 08:27:18.347 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.349 [info] [code-referencing] Match found
+2025-01-12 08:27:18.349 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.351 [info] [code-referencing] Match found
+2025-01-12 08:27:18.351 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.353 [info] [code-referencing] Match found
+2025-01-12 08:27:18.353 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.356 [info] [code-referencing] Match found
+2025-01-12 08:27:18.357 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.359 [info] [code-referencing] Match found
+2025-01-12 08:27:18.359 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:27:18.361 [info] [code-referencing] Match found
+2025-01-12 08:27:18.362 [info] [code-referencing] Calling FilesForMatch
+2025-01-12 08:30:01.055 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 467 ms
+2025-01-12 08:30:01.070 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:30:01.080 [info] [streamChoices] request done: headerRequestId: [874df609-b267-44bd-8039-49a481af2253] model deployment ID: [d178-20250107091945]
+2025-01-12 08:30:17.739 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 193 ms
+2025-01-12 08:30:17.742 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-12 08:30:17.743 [info] [streamChoices] request done: headerRequestId: [55c55f5b-5cc6-45bf-97e5-40f18b282620] model deployment ID: [d178-20250107091945]
+2025-01-12 08:40:41.689 [info] [fetcher] Using Helix fetcher, Electron fetcher is not available.
+2025-01-12 08:40:41.689 [info] [code-referencing] Public code references are enabled.

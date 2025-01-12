@@ -1,0 +1,57 @@
+2025-01-11 23:41:28.146 [info] Can't use the Electron fetcher in this environment.
+2025-01-11 23:41:28.146 [info] Using the Node fetch fetcher.
+2025-01-11 23:41:28.146 [info] Initializing Git extension service.
+2025-01-11 23:41:28.146 [info] Successfully activated the vscode.git extension.
+2025-01-11 23:41:28.146 [info] Enablement state of the vscode.git extension: true.
+2025-01-11 23:41:28.146 [info] Successfully registered Git commit message provider.
+2025-01-11 23:41:28.542 [info] Logged in as Edinsonpb
+2025-01-11 23:41:30.410 [info] Got Copilot token for Edinsonpb
+2025-01-11 23:41:31.431 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-11 23:41:31.432 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-01-11 23:41:31.465 [info] Registering default platform agent...
+2025-01-11 23:41:36.918 [info] Fetched model metadata in 6436ms 529eca21-43ed-4ae7-857b-84b0677a8067
+2025-01-11 23:41:36.927 [info] activationBlocker from 'languageModelAccess' took for 9401ms
+2025-01-11 23:41:46.272 [info] message 0 returned. finish reason: [stop]
+2025-01-11 23:41:46.277 [info] request done: requestId: [f5b3cec6-0869-4e33-9bda-cd4950bb4306] model deployment ID: []
+2025-01-11 23:41:47.985 [info] message 0 returned. finish reason: [stop]
+2025-01-11 23:41:47.987 [info] request done: requestId: [f2ff271b-6bb5-4864-843f-07502cecd32e] model deployment ID: []
+2025-01-11 23:42:01.895 [info] message 0 returned. finish reason: [stop]
+2025-01-11 23:42:01.898 [info] request done: requestId: [fdb97684-38c3-4667-83b4-ba9694e2c4b0] model deployment ID: []
+2025-01-11 23:42:03.014 [info] message 0 returned. finish reason: [stop]
+2025-01-11 23:42:03.016 [info] request done: requestId: [c0a8bcbe-b6d6-4cc3-b782-e79582735bbc] model deployment ID: []
+2025-01-11 23:42:03.058 [info] message 0 returned. finish reason: [stop]
+2025-01-11 23:42:03.071 [info] request done: requestId: [7623f5a3-2473-4a68-be92-41620f86f3c9] model deployment ID: []
+2025-01-11 23:56:11.667 [info] Fetched model metadata in 1055ms 0540881f-b1ca-4e5e-a27b-80be8d594faa
+2025-01-12 00:05:42.921 [info] Logged in as Edinsonpb
+2025-01-12 00:05:44.299 [info] Got Copilot token for Edinsonpb
+2025-01-12 00:05:44.549 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-12 00:20:16.078 [info] Fetched model metadata in 1029ms 401da7db-d302-4be1-a686-959d3dd310dd
+2025-01-12 00:28:25.794 [info] message 0 returned. finish reason: [stop]
+2025-01-12 00:28:25.797 [info] request done: requestId: [363d5143-9894-4ead-93d8-cf8e915ce9a0] model deployment ID: []
+2025-01-12 00:28:28.038 [info] message 0 returned. finish reason: [stop]
+2025-01-12 00:28:28.040 [info] request done: requestId: [556b3544-57e0-414f-8ffd-22b38934f71a] model deployment ID: []
+2025-01-12 00:28:29.470 [info] message 0 returned. finish reason: [stop]
+2025-01-12 00:28:29.472 [info] request done: requestId: [7b1bab36-2a39-494c-ab87-293c955610ba] model deployment ID: []
+2025-01-12 00:29:06.446 [info] message 0 returned. finish reason: [stop]
+2025-01-12 00:29:06.448 [info] request done: requestId: [876f02d2-2a3e-47e0-95f4-93aceae36bd9] model deployment ID: []
+2025-01-12 00:29:08.018 [info] message 0 returned. finish reason: [stop]
+2025-01-12 00:29:08.020 [info] request done: requestId: [9dc6b08f-dea2-4cd3-aa71-2c30d5aa3052] model deployment ID: []
+2025-01-12 00:29:42.953 [info] message 0 returned. finish reason: [stop]
+2025-01-12 00:29:42.956 [info] request done: requestId: [631c30b6-0205-4c4a-9b53-c83f5823e194] model deployment ID: []
+2025-01-12 00:29:44.923 [info] message 0 returned. finish reason: [stop]
+2025-01-12 00:29:44.925 [info] request done: requestId: [eff41b1b-be75-4c92-bd8d-e16c0bfd6e5c] model deployment ID: []
+2025-01-12 00:29:54.166 [info] Logged in as Edinsonpb
+2025-01-12 00:29:55.546 [info] Got Copilot token for Edinsonpb
+2025-01-12 00:29:55.785 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-12 00:44:26.534 [info] Fetched model metadata in 1084ms 34be866d-38cf-4235-ac1e-5f347bb79411
+2025-01-12 00:54:06.029 [info] Logged in as Edinsonpb
+2025-01-12 00:54:08.482 [info] Got Copilot token for Edinsonpb
+2025-01-12 00:54:08.739 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-12 01:08:39.847 [info] Fetched model metadata in 1083ms d05bbde4-dc82-4edf-88ba-71b9511e2e40
+2025-01-12 01:09:16.729 [info] message 0 returned. finish reason: [stop]
+2025-01-12 01:09:16.732 [info] request done: requestId: [1ba89162-c573-4a34-aa05-2056bd9ff0c0] model deployment ID: []
+2025-01-12 01:09:22.677 [info] message 0 returned. finish reason: [stop]
+2025-01-12 01:09:22.679 [info] request done: requestId: [] model deployment ID: []
+2025-01-12 01:18:19.009 [info] Logged in as Edinsonpb
+2025-01-12 01:18:20.596 [info] Got Copilot token for Edinsonpb
+2025-01-12 01:18:20.848 [info] copilot token chat_enabled: true, sku: free_limited_copilot
