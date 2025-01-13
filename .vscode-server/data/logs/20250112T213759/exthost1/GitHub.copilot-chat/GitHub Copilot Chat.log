@@ -12,3 +12,6 @@
 2025-01-12 21:39:15.685 [info] Fetched model metadata in 4979ms 5e89031a-15fa-461a-b7ef-242a579a6b3d
 2025-01-12 21:39:15.698 [info] activationBlocker from 'languageModelAccess' took for 28537ms
 2025-01-12 21:53:45.355 [info] Fetched model metadata in 1033ms aa3656b7-8f06-4765-b9c6-949d58bf9813
+2025-01-12 22:03:15.949 [info] Logged in as Edinsonpb
+2025-01-12 22:03:16.276 [info] Got Copilot token for Edinsonpb
+2025-01-12 22:03:16.527 [info] copilot token chat_enabled: true, sku: free_limited_copilot
