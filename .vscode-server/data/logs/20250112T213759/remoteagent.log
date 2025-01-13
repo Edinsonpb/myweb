@@ -1,0 +1,12 @@
+2025-01-12 21:38:00.307 [info] 
+
+
+
+
+2025-01-12 21:38:00.411 [info] Extension host agent started.
+2025-01-12 21:38:13.063 [info] [127.0.0.1][0f9262e2][ManagementConnection] New connection established.
+2025-01-12 21:38:13.616 [info] [127.0.0.1][c86d895e][ExtensionHostConnection] New connection established.
+2025-01-12 21:38:13.646 [info] [127.0.0.1][c86d895e][ExtensionHostConnection] <739> Launched Extension Host Process.
+2025-01-12 21:38:15.487 [error] [network] #2: https://main.vscode-cdn.net/extensions/marketplace.json - error GET AggregateError [ETIMEDOUT]: 
+2025-01-12 21:39:23.867 [info] [127.0.0.1][c86d895e][ExtensionHostConnection] <739> [0mGET /favicon.ico [33m404[0m 4.501 ms - 150[0m
+

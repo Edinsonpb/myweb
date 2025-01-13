@@ -83,3 +83,23 @@ git commit -m "formularios"
 git status
 git push origin master
 exit
+pwd
+git status
+code .
+git status
+git add .
+git commit -m "incorporndo fechas"
+git status
+git push remote origin master
+git push origin masteer
+git push origin master
+git stats
+git status
+git add .
+git commit -m "incorporando etiquetas a formularios"
+git push origin master
+git status
+git add .
+git commit -m "incorporando botones"
+git push origin master
+exit

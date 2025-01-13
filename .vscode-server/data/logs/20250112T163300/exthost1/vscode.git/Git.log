@@ -1425,3 +1425,6 @@
 2025-01-12 17:34:38.043 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
 2025-01-12 17:34:38.082 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
 2025-01-12 17:34:38.129 [info] > git status -z -uall [74ms]
+2025-01-12 17:36:24.474 [info] > git config --get commit.template [8ms]
+2025-01-12 17:36:24.511 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2025-01-12 17:36:24.558 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]

@@ -9,3 +9,5 @@
 2025-01-12 16:33:05.145 [info] [127.0.0.1][75b1c021][ExtensionHostConnection] <659> Launched Extension Host Process.
 2025-01-12 16:39:09.604 [info] [127.0.0.1][75b1c021][ExtensionHostConnection] <659> [0mGET /favicon.ico [33m404[0m 16.144 ms - 150[0m
 
+2025-01-12 17:36:25.441 [info] [127.0.0.1][4a8a1cce][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-12 17:36:27.021 [info] [127.0.0.1][75b1c021][ExtensionHostConnection] <659> Extension Host Process exited with code: 0, signal: null.
