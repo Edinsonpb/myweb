@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="donde sale"
+        content="informaciòn que va a salir
+         en la bùsqueda de google">
+        <meta name="robots" content="index, follow">
+        <title>Mi primera página estudiando frontend</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./css/style.css">
+    </head>
+    <body>
+        <header>
+            <h1>Mi primera pagina familiar</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Inicio</a></li>
+                    <li><a href="#">Acerca de</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section>
+                <article>
+                    <h2>Imágenes reales</h2>
+                    <p>Esta es una visita al alumbrado del coliseo Manuel Victoria Rojas en Tuluá D.C.</p>
+                </article>
+                <figure>
+                    <img src="./images/navidad familiar.jpg" 
+                    alt="Navidad Familiar">
+                    <figcaption>Coliseo de ferias navidad del 2024</figcaption>
+                </figure>
+                <article>
+                    <h2>Imágenes generadas por AI</h2>
+                    <p>Esta sección contiene material generado por la IA</p>
+                </article>
+                <figure>
+                    <img src="./images/vida actual chatgpt.jpg" 
+                    alt="Propuesta de chatgpt">
+                    <figcaption>Construida por chatgpt con el promt de mi vida actual</figcaption>
+                </figure>
+                <article>
+                    <h2>Videos reales</h2>
+                    <p>Esta es Lulú rendida después de un día de celebración de su 7° cumpleaños</p>
+                    <video src="./videos/lulu.mp4" controls preload="auto"></video>
+                </article>
+                </section>
+                <section>
+                    <h1>Formatos de calendario</h1>
+                    <h2>Individuales</h2>
+                    <form action="">
+                    <label for="hora">
+                        <span>Hora</span>
+                        <input type="time" id="hora" name="hora">
+                    </label>
+                </form>
+                <form action="">
+                    <label for="dia">
+                        <span>Día</span>
+                        <input type="date" id="dia" name="dia">
+                    </label>
+                </form>
+                <form action="">
+                    <label for="semana">
+                        <span>Semana</span>
+                        <input type="week" id="semana" name="semanaa">
+                    </label>
+                </form>
+                <form action="">
+                    <label for="mes">
+                        <span>Mes</span>
+                        <input type="month" id="mes" name="mes">
+                    </label>
+                    <input type="submit" />
+                </form>
+                <h2>Integrado horas y fechas</h2>
+                <form action="">
+                    <label for="calendario">
+                        <span>Calendario</span>
+                        <input type="datetime-local" id="calendario" name="calendario">
+                    </label>
+                    <input type="submit" />
+                </form>
+                </section>
+                <section>
+                <h1>Formularios autocompletar y requeridos</h1>
+                <form action="">
+                    <label for="nombre">
+                        <span>Digita tu nombre</span>
+                        <input type="text" id="nombre" name="nombre" autocomplete="name" required/>
+                    </label>
+                    <label for="correo">
+                        <span>Digita tu email</span>
+                        <input type="email" id="correo" name="correo" autocomplete="email" required/>
+                    </label>
+                    <label for="pais">
+                        <span>Digita tu pais de residencia</span>
+                        <input type="text" id="pais" name="pais" autocomplete="country" required/>
+                    </label>
+                    <label for="cp">
+                        <span>Digita tu codigo postal</span>
+                        <input type="text" id="cp" name="cp" autocomplete="postal-code" required/>
+                    </label>
+                    <input type="submit" />
+                </form>
+                </section>
+                <section>
+                    <h1>Listas para seleccionar</h1>
+                    <input list="paises">
+                    <datalist id="paises">
+                        <option value="Colombia">
+                        <option value="México">
+                        <option value="Perú">
+                        <option value="Chile">
+                        <option value="Argentina">
+                    </datalist>
+                </section>
+                <section>
+                    <h1>Botones de input</h1>
+                    <input type="submit" value="Enviar Info">
+                    <button type="submit">Registrar</button>
+                </section>
+        </main>
+        <footer>
+            <p>Este es el pie de página de mi página</p>
+        </footer>
+    </body>
+</html>

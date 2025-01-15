@@ -1,0 +1,18 @@
+2025-01-15 17:14:18.510 [info] 
+
+
+
+
+2025-01-15 17:14:18.510 [info] Extension host agent started.
+2025-01-15 17:14:18.658 [info] [127.0.0.1][8a1a1b8e][ManagementConnection] New connection established.
+2025-01-15 17:14:18.790 [info] [127.0.0.1][951b3de6][ExtensionHostConnection] New connection established.
+2025-01-15 17:14:21.760 [info] [127.0.0.1][951b3de6][ExtensionHostConnection] <1459> Launched Extension Host Process.
+2025-01-15 17:14:31.354 [info] Getting Manifest... github.copilot
+2025-01-15 17:14:32.147 [info] Installing extension: github.copilot {"productVersion":{"version":"1.96.3","date":"2025-01-09T18:14:09.060Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/edinsonpb/.vscode-server/extensions/extensions.json","external":"file:///home/edinsonpb/.vscode-server/extensions/extensions.json","path":"/home/edinsonpb/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-01-15 17:15:00.900 [info] Extension signature verification result for github.copilot: Success. Executed: true. Duration: 22951ms.
+2025-01-15 17:15:02.790 [info] Extracted extension to file:///home/edinsonpb/.vscode-server/extensions/github.copilot-1.257.0: github.copilot
+2025-01-15 17:15:03.500 [info] Renamed to /home/edinsonpb/.vscode-server/extensions/github.copilot-1.257.0
+2025-01-15 17:15:06.381 [info] Marked extension as uninstalled github.copilot-1.256.0
+2025-01-15 17:15:06.411 [info] Extension installed successfully: github.copilot file:///home/edinsonpb/.vscode-server/extensions/extensions.json
+2025-01-15 17:28:51.470 [info] [127.0.0.1][951b3de6][ExtensionHostConnection] <1459> [0mGET /favicon.ico [33m404[0m 5.972 ms - 150[0m
+

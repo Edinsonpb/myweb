@@ -103,3 +103,10 @@ git add .
 git commit -m "incorporando botones"
 git push origin master
 exit
+git status
+git add .
+git commit -m "ajustado tamaño del video"
+git status
+git push origin master
+git status
+exit
