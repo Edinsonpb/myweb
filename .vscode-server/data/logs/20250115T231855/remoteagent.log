@@ -1,0 +1,14 @@
+2025-01-15 23:18:57.081 [info] 
+
+
+
+
+2025-01-15 23:18:57.212 [info] Extension host agent started.
+2025-01-15 23:18:57.858 [info] [127.0.0.1][25261e61][ManagementConnection] New connection established.
+2025-01-15 23:18:59.606 [info] Deleted uninstalled extension from disk github.copilot /home/edinsonpb/.vscode-server/extensions/github.copilot-1.256.0
+2025-01-15 23:19:08.854 [info] [127.0.0.1][54e86749][ExtensionHostConnection] New connection established.
+2025-01-15 23:19:08.870 [info] [127.0.0.1][54e86749][ExtensionHostConnection] <728> Launched Extension Host Process.
+2025-01-15 23:19:59.391 [info] [127.0.0.1][54e86749][ExtensionHostConnection] <728> [0mGET /favicon.ico [33m404[0m 3.138 ms - 150[0m
+
+2025-01-15 23:26:44.812 [info] [127.0.0.1][25261e61][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-15 23:26:45.606 [info] [127.0.0.1][54e86749][ExtensionHostConnection] <728> Extension Host Process exited with code: 0, signal: null.

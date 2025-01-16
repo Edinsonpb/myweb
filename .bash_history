@@ -110,3 +110,10 @@ git status
 git push origin master
 git status
 exit
+pwd
+git status
+code .
+git status
+git add .
+git commit -m "agregando estilos css"
+git push origin master
