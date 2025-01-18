@@ -117,3 +117,11 @@ git status
 git add .
 git commit -m "agregando estilos css"
 git push origin master
+pwd
+code .
+git status
+git add .
+git commit -m "incorporando especifidad css"
+git pusch origin master
+git push origin master
+code .
