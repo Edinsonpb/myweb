@@ -95,3 +95,70 @@
 2025-01-19 14:03:02.175 [info] request done: requestId: [ba61280b-3b5a-4418-b699-6f6bb096c30c] model deployment ID: []
 2025-01-19 14:03:07.405 [info] message 0 returned. finish reason: [stop]
 2025-01-19 14:03:07.420 [info] request done: requestId: [c6833b4d-fadf-4aad-b1c2-d01198c97f26] model deployment ID: []
+2025-01-19 14:09:09.963 [info] Logged in as Edinsonpb
+2025-01-19 14:09:11.326 [info] Got Copilot token for Edinsonpb
+2025-01-19 14:09:11.575 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-19 14:22:49.980 [info] Fetched model metadata in 935ms 7dca7a82-9cce-4455-bfd1-f92e9147e601
+2025-01-19 14:22:52.766 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:22:52.769 [info] request done: requestId: [302432bd-f3c0-42d9-a2d1-534613562fb2] model deployment ID: []
+2025-01-19 14:22:57.527 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:22:57.531 [info] request done: requestId: [04d588f2-3106-4f07-bb6a-b3cf46ed64c3] model deployment ID: []
+2025-01-19 14:23:30.930 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:23:30.932 [info] request done: requestId: [2c8e91bf-6519-4d51-9125-89ca6b7349f3] model deployment ID: []
+2025-01-19 14:23:43.890 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:23:43.892 [info] request done: requestId: [74883d05-b0fc-46f9-8db0-410934d25180] model deployment ID: []
+2025-01-19 14:25:31.574 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:25:31.577 [info] request done: requestId: [45f044c8-6d1c-4504-b7be-765a3ac6f4cd] model deployment ID: []
+2025-01-19 14:25:38.323 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:25:38.326 [info] request done: requestId: [002e2618-73d0-49ca-a5f4-fe2a613fd72e] model deployment ID: []
+2025-01-19 14:26:17.864 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:26:17.867 [info] request done: requestId: [dfdcb9bc-5233-407a-88b8-1fc9d6c1d7e5] model deployment ID: []
+2025-01-19 14:26:25.069 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:26:25.074 [info] request done: requestId: [f31a8f78-7a7b-45b1-aa53-1261fdba7c64] model deployment ID: []
+2025-01-19 14:27:34.761 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:27:34.763 [info] request done: requestId: [28d43672-724c-4338-9a15-f486f681d01d] model deployment ID: []
+2025-01-19 14:27:41.236 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:27:41.237 [info] request done: requestId: [91fdf149-7f66-4fa3-9fc0-e3cac53a9c0d] model deployment ID: []
+2025-01-19 14:30:04.985 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:30:04.987 [info] request done: requestId: [591db4dd-708b-4821-bfa1-fac615538973] model deployment ID: []
+2025-01-19 14:30:17.219 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:30:17.225 [info] request done: requestId: [27fc2814-9882-4c7b-b4c9-45fc99f6321f] model deployment ID: []
+2025-01-19 14:30:23.223 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:30:23.225 [info] request done: requestId: [0be366d5-817f-4f58-b4f9-6a7245cf5a37] model deployment ID: []
+2025-01-19 14:30:34.351 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:30:34.358 [info] request done: requestId: [1f9396aa-1858-4c16-8eca-7089134a26c7] model deployment ID: []
+2025-01-19 14:30:40.346 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:30:40.347 [info] request done: requestId: [dab51a81-17c6-4782-b5ec-5249903ab76c] model deployment ID: []
+2025-01-19 14:30:52.241 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:30:52.244 [info] request done: requestId: [0a257b07-f726-431e-a860-db9d21dd076b] model deployment ID: []
+2025-01-19 14:31:50.804 [info] Request ID for failed request: 3fab7324-b2fe-4650-8261-17c35daf2674
+2025-01-19 14:31:50.822 [error] Request Failed: 400 {"error":{"message":"prompt token count of 12288 exceeds the limit of 12288","param":"","code":"","type":""}}
+
+2025-01-19 14:32:01.360 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:32:01.362 [info] request done: requestId: [f5e758db-690b-4232-981c-df557b68eb2b] model deployment ID: []
+2025-01-19 14:34:11.449 [info] Logged in as Edinsonpb
+2025-01-19 14:34:12.834 [info] Got Copilot token for Edinsonpb
+2025-01-19 14:34:13.090 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-19 14:34:14.196 [info] Fetched model metadata in 987ms 4d98e188-6116-4373-8049-7503211106b9
+2025-01-19 14:34:18.677 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:34:18.680 [info] request done: requestId: [923dd80f-820a-44d7-b1fe-fd16cac9caa9] model deployment ID: []
+2025-01-19 14:34:27.512 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:34:27.514 [info] request done: requestId: [28d10677-080a-4e0d-a24e-56f7ed0c765e] model deployment ID: []
+2025-01-19 14:39:22.377 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:39:22.381 [info] request done: requestId: [2fcac116-7f0e-4f58-be09-fc9df82dbe12] model deployment ID: []
+2025-01-19 14:39:29.244 [info] message 0 returned. finish reason: [stop]
+2025-01-19 14:39:29.246 [info] request done: requestId: [8b667e73-9b52-458a-a5a6-3a03b9e14be4] model deployment ID: []
+2025-01-19 14:49:15.277 [info] Fetched model metadata in 950ms b61d326d-c3b9-4989-96af-5af7f5ac6f93
+2025-01-19 14:59:12.972 [info] Logged in as Edinsonpb
+2025-01-19 14:59:14.433 [info] Got Copilot token for Edinsonpb
+2025-01-19 14:59:14.700 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-19 15:14:15.954 [info] Fetched model metadata in 1006ms 2fe7d680-737c-47c6-80cb-21ac3d687f44
+2025-01-19 15:24:14.562 [info] Logged in as Edinsonpb
+2025-01-19 15:24:15.949 [info] Got Copilot token for Edinsonpb
+2025-01-19 15:24:16.213 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-19 15:24:17.257 [info] Fetched model metadata in 929ms 2ca2673e-2db4-4694-a5ab-cb18ad63613e
+2025-01-19 15:39:18.389 [info] Fetched model metadata in 991ms c3d37f4c-9d11-4478-a583-60b167edffcf
+2025-01-19 15:49:16.089 [info] Logged in as Edinsonpb
+2025-01-19 15:49:17.474 [info] Got Copilot token for Edinsonpb
+2025-01-19 15:49:17.728 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-19 16:04:18.963 [info] Fetched model metadata in 995ms 34b905a4-09ee-4527-a14b-154e21ad27cd
