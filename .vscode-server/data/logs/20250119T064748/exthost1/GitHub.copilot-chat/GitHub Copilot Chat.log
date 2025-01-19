@@ -71,3 +71,8 @@
 2025-01-19 12:04:04.038 [info] copilot token chat_enabled: true, sku: free_limited_copilot
 2025-01-19 12:04:05.412 [info] Fetched model metadata in 1142ms 47b569a5-c3bd-48f0-a673-5123fd5f4b03
 2025-01-19 12:19:06.605 [info] Fetched model metadata in 1026ms 45ea161b-92d1-4ed0-b378-a4f8f435cfed
+2025-01-19 12:28:25.165 [info] message 0 returned. finish reason: [stop]
+2025-01-19 12:28:25.170 [info] request done: requestId: [b007734f-64a0-4712-8fec-e81c09e06d68] model deployment ID: []
+2025-01-19 12:29:03.637 [info] Logged in as Edinsonpb
+2025-01-19 12:29:05.148 [info] Got Copilot token for Edinsonpb
+2025-01-19 12:29:05.396 [info] copilot token chat_enabled: true, sku: free_limited_copilot
