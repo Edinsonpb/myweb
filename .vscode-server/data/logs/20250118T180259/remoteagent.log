@@ -1,0 +1,11 @@
+2025-01-18 18:03:00.816 [info] 
+
+
+
+
+2025-01-18 18:03:00.974 [info] Extension host agent started.
+2025-01-18 18:03:01.795 [info] [127.0.0.1][94fa95a3][ManagementConnection] New connection established.
+2025-01-18 18:03:04.414 [info] [127.0.0.1][cede4e8c][ExtensionHostConnection] New connection established.
+2025-01-18 18:03:04.880 [info] [127.0.0.1][cede4e8c][ExtensionHostConnection] <965> Launched Extension Host Process.
+2025-01-18 18:04:21.099 [info] [127.0.0.1][cede4e8c][ExtensionHostConnection] <965> [0mGET /favicon.ico [33m404[0m 4.078 ms - 150[0m
+

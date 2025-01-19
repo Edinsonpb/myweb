@@ -1,0 +1,80 @@
+2025-01-18 18:03:28.037 [info] [main] Log level: Info
+2025-01-18 18:03:28.037 [info] [main] Validating found git in: "git"
+2025-01-18 18:03:28.037 [info] [main] Using git "2.43.0" from "git"
+2025-01-18 18:03:28.037 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-18 18:03:28.037 [info] > git rev-parse --show-toplevel [1860ms]
+2025-01-18 18:03:28.037 [info] > git rev-parse --git-dir --git-common-dir [1756ms]
+2025-01-18 18:03:28.037 [info] [Model][openRepository] Opened repository: /home/edinsonpb
+2025-01-18 18:03:28.037 [info] > git config --get commit.template [63ms]
+2025-01-18 18:03:28.664 [info] > git check-ignore -v -z --stdin [81ms]
+2025-01-18 18:03:28.681 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [59ms]
+2025-01-18 18:03:29.667 [info] > git rev-parse --show-toplevel [1012ms]
+2025-01-18 18:03:29.743 [info] > git status -z -uall [1053ms]
+2025-01-18 18:03:29.753 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1025ms]
+2025-01-18 18:03:29.835 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [41ms]
+2025-01-18 18:03:29.850 [info] > git rev-parse --show-toplevel [114ms]
+2025-01-18 18:03:30.123 [info] > git config --get commit.template [299ms]
+2025-01-18 18:03:30.393 [info] > git rev-parse --show-toplevel [519ms]
+2025-01-18 18:03:30.393 [info] > git config --local branch.master.vscode-merge-base [543ms]
+2025-01-18 18:03:30.394 [warning] [Git][config] git config failed: Failed to execute git
+2025-01-18 18:03:30.418 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2025-01-18 18:03:30.445 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+2025-01-18 18:03:30.447 [info] > git rev-parse --show-toplevel [33ms]
+2025-01-18 18:03:30.462 [info] > git rev-parse --show-toplevel [3ms]
+2025-01-18 18:03:30.476 [info] > git rev-parse --show-toplevel [7ms]
+2025-01-18 18:03:30.661 [info] > git status -z -uall [239ms]
+2025-01-18 18:03:30.661 [info] > git rev-parse --show-toplevel [177ms]
+2025-01-18 18:03:30.880 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [73ms]
+2025-01-18 18:03:30.890 [info] > git rev-parse --show-toplevel [219ms]
+2025-01-18 18:03:30.908 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-18 18:03:30.998 [info] > git ls-files --stage -- /home/edinsonpb/index.html [71ms]
+2025-01-18 18:03:31.011 [info] > git config --local branch.master.vscode-merge-base [121ms]
+2025-01-18 18:03:31.012 [warning] [Git][config] git config failed: Failed to execute git
+2025-01-18 18:03:31.028 [info] > git config --get commit.template [203ms]
+2025-01-18 18:03:31.078 [info] > git cat-file -s ebff0fd8818b8ad139dc0a5f520b42635127ef4d [67ms]
+2025-01-18 18:03:31.414 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [340ms]
+2025-01-18 18:03:31.723 [info] > git show --textconv :index.html [804ms]
+2025-01-18 18:03:31.723 [info] > git status -z -uall [304ms]
+2025-01-18 18:03:31.725 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [298ms]
+2025-01-18 18:03:31.727 [info] > git reflog master --grep-reflog=branch: Created from *. [708ms]
+2025-01-18 18:03:31.747 [info] > git reflog master --grep-reflog=branch: Created from *. [1349ms]
+2025-01-18 18:03:31.848 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [35ms]
+2025-01-18 18:03:31.856 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [103ms]
+2025-01-18 18:03:31.856 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-01-18 18:03:31.856 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-01-18 18:03:31.860 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [114ms]
+2025-01-18 18:03:31.860 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-01-18 18:03:31.860 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-01-18 18:03:31.866 [info] > git config --local branch.master.vscode-merge-base [11ms]
+2025-01-18 18:03:31.867 [warning] [Git][config] git config failed: Failed to execute git
+2025-01-18 18:03:31.885 [info] > git reflog master --grep-reflog=branch: Created from *. [8ms]
+2025-01-18 18:03:31.896 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [5ms]
+2025-01-18 18:03:31.896 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-01-18 18:03:31.896 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-01-18 18:03:41.944 [info] > git blame --root --incremental 830f68c35615cc1b6c576d180fbebe376f46e2c4 -- /home/edinsonpb/index.html [10101ms]
+2025-01-18 18:04:47.282 [info] > git ls-files --stage -- /home/edinsonpb/css/style.css [18ms]
+2025-01-18 18:04:47.319 [info] > git show --textconv :css/style.css [71ms]
+2025-01-18 18:04:47.369 [info] > git cat-file -s fd889bec73f954ba16b2b35b6a20c117a897bc58 [52ms]
+2025-01-18 18:04:47.588 [info] > git check-ignore -v -z --stdin [17ms]
+2025-01-18 18:04:48.040 [info] > git blame --root --incremental 830f68c35615cc1b6c576d180fbebe376f46e2c4 -- /home/edinsonpb/css/style.css [586ms]
+2025-01-18 18:47:48.069 [info] > git show --textconv :index.html [22ms]
+2025-01-18 18:47:48.077 [info] > git ls-files --stage -- /home/edinsonpb/index.html [18ms]
+2025-01-18 18:47:48.117 [info] > git cat-file -s ebff0fd8818b8ad139dc0a5f520b42635127ef4d [15ms]
+2025-01-18 18:56:20.092 [info] > git show --textconv :css/style.css [29ms]
+2025-01-18 18:56:20.126 [info] > git ls-files --stage -- /home/edinsonpb/css/style.css [37ms]
+2025-01-18 18:56:20.138 [info] > git cat-file -s fd889bec73f954ba16b2b35b6a20c117a897bc58 [3ms]
+2025-01-18 19:04:09.988 [info] > git show --textconv :index.html [13ms]
+2025-01-18 19:04:10.022 [info] > git ls-files --stage -- /home/edinsonpb/index.html [35ms]
+2025-01-18 19:04:10.057 [info] > git cat-file -s ebff0fd8818b8ad139dc0a5f520b42635127ef4d [14ms]
+2025-01-18 19:14:05.594 [info] > git ls-files --stage -- /home/edinsonpb/css/style.css [19ms]
+2025-01-18 19:14:05.624 [info] > git cat-file -s fd889bec73f954ba16b2b35b6a20c117a897bc58 [14ms]
+2025-01-18 19:14:05.692 [info] > git show --textconv :css/style.css [134ms]
+2025-01-18 19:22:10.993 [info] > git show --textconv :index.html [17ms]
+2025-01-18 19:22:10.996 [info] > git ls-files --stage -- /home/edinsonpb/index.html [9ms]
+2025-01-18 19:22:11.010 [info] > git cat-file -s ebff0fd8818b8ad139dc0a5f520b42635127ef4d [3ms]
+2025-01-18 19:24:48.223 [info] > git show --textconv :css/style.css [19ms]
+2025-01-18 19:24:48.246 [info] > git ls-files --stage -- /home/edinsonpb/css/style.css [28ms]
+2025-01-18 19:24:48.285 [info] > git cat-file -s fd889bec73f954ba16b2b35b6a20c117a897bc58 [16ms]
+2025-01-18 19:25:50.774 [info] > git show --textconv :index.html [16ms]
+2025-01-18 19:25:50.794 [info] > git ls-files --stage -- /home/edinsonpb/index.html [23ms]
+2025-01-18 19:25:50.827 [info] > git cat-file -s ebff0fd8818b8ad139dc0a5f520b42635127ef4d [13ms]

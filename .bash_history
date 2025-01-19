@@ -125,3 +125,7 @@ git commit -m "incorporando especifidad css"
 git pusch origin master
 git push origin master
 code .
+git status
+git add .
+git commit -m "aplicando rem"
+git push origin master
