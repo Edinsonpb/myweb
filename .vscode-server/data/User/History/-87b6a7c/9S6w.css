@@ -38,14 +38,8 @@ form input {
 }
 
 .contenedor1 {
-    display: inline-block;
+    display: flex;
     justify-content: space-between;
-}
-
-figure, video {
-    display: inline-block;
-    width: 60%;
-    height: 100%;
 }
 
 .contenedor {

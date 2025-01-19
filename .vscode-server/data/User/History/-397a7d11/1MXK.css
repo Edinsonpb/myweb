@@ -1,0 +1,11 @@
+.contenedor1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+figure, video {
+    display: flex;
+    width: 200%;
+    height: 100%;
+    flex-wrap: wrap;
+}

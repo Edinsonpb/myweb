@@ -129,3 +129,13 @@ git status
 git add .
 git commit -m "aplicando rem"
 git push origin master
+code .
+git status
+git add .
+git commit -m "construyendo el calendario"
+git push origin master
+git status
+git ad .
+git add .
+git commit -m "ajustando agenda"
+git push origin master

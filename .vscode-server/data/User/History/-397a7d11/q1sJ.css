@@ -1,0 +1,23 @@
+.contenedor1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+figure, video {
+    display: flex;
+    width: 150%;
+    height: 100%;
+    flex-wrap: wrap;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    padding: 1rem;
+    margin: 1rem;
+    border: 0.1rem solid #000;
+    border-radius: 1rem;
+}
